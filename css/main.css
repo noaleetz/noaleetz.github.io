@@ -1260,7 +1260,7 @@
   .show > .btn-primary.dropdown-toggle,
   .show > .btn-primary.dropdown-toggle:focus,
   .show > .btn-primary.dropdown-toggle:hover {
-    background-color: #40a249;
+    background-color: #2CA8FF;
     color: #FFFFFF;
     box-shadow: none; }
   .btn-primary:hover {
@@ -5124,7 +5124,7 @@ Created using IcoMoon - icomoon.io
   /* For Safari 5.1 to 6.0 */
   /* For Opera 11.1 to 12.0 */
   /* For Firefox 3.6 to 15 */
-  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(55, 140, 63, 0.6));
+  background: linear-gradient(0deg, rgba(44, 44, 44, 0.2), rgba(44,168,255, 0.6));
   /* Standard syntax */ }
   .page-header .btn {
     width: 140px; }
@@ -5154,7 +5154,7 @@ Created using IcoMoon - icomoon.io
 
 .cc-profile-image a:before {
   content: "";
-  border: 15px solid rgba(55, 140, 63, 0.6);
+  border: 15px solid rgba(44,168,255, 0.6);
   border-radius: 50%;
   height: 180px;
   width: 180px;

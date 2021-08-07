@@ -3719,12 +3719,13 @@ tbody.collapse.show {
     right: 0;
     bottom: 0;
     left: 0;
-    padding: 1.25rem
+    padding: 3rem
 }
 
 .card-img {
     width: 100%;
-    border-radius: calc(.25rem - 1px)
+    border-radius: calc(.25rem - 1px);
+    padding: 5px
 }
 
 .card-img-top {
@@ -3797,7 +3798,7 @@ tbody.collapse.show {
 }
 
 .card-columns .card {
-    margin-bottom: .75rem
+    margin-bottom: .75rem;
 }
 
 @media (min-width:576px) {
